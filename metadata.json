@@ -1,0 +1,8 @@
+{
+  "name": "Resort Ease",
+  "description": "Unified Property Management, Overlap-Free Reservation, Amenity Scheduling, Inventory Tracking, Guest Concierge, and Staff Allocation System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
